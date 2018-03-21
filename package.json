@@ -1,0 +1,23 @@
+{
+  "name": "gulp-template",
+  "version": "0.0.1",
+  "description": "A basic project with already defined Gulp tasks",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "keywords": [
+    "gulp",
+    "template",
+    "webapp"
+  ],
+  "author": "Wires",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-gzip": "^1.4.2",
+    "gulp-uglify": "^3.0.0",
+    "gulp-webserver": "^0.9.1",
+    "pump": "^3.0.0"
+  }
+}
