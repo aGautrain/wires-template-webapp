@@ -1,0 +1,1 @@
+alert('Message coming from script !');
