@@ -14,10 +14,19 @@
   "author": "Wires",
   "license": "ISC",
   "devDependencies": {
+    "colors": "^1.2.1",
+    "del": "^3.0.0",
     "gulp": "^3.9.1",
     "gulp-gzip": "^1.4.2",
+    "gulp-help": "^1.6.1",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-jshint": "^2.1.0",
     "gulp-uglify": "^3.0.0",
+    "gulp-util": "^3.0.8",
     "gulp-webserver": "^0.9.1",
-    "pump": "^3.0.0"
+    "jshint": "^2.9.5",
+    "pump": "^3.0.0",
+    "run-sequence": "^2.2.1",
+    "vinyl-ftp": "^0.6.1"
   }
 }
